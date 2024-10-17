@@ -4,7 +4,7 @@
 ![Pwc Singapore - Task 3](https://github.com/user-attachments/assets/0a1641a7-b42e-4b5d-aa89-2381d318fcb9)
 ![Pwc Singapore - Task 4 ( Diversity Inclusion)](https://github.com/user-attachments/assets/3bcc17d7-70fa-46a0-bd68-973715d9ca30)
 
-This project contains three Power BI dashboards designed to provide insights into different areas of business performance: Call Centre Analytics, Customer Churn, and Diversity & Inclusion.
+This project contains three Power BI dashboards from **PwC Switzerland - PowerBi Job Simulation** designed to provide insights into different areas of business performance: Call Centre Analytics, Customer Churn, and Diversity & Inclusion.
 
 1. Call Centre Analytics Dashboard:
 This dashboard provides an overview of call center performance, focusing on metrics such as resolution rates, customer satisfaction, and agent efficiency.
