@@ -1,55 +1,33 @@
 # Pwc-Switzerland---Power-Bi-Job
 
-![Pwc Singapore - Task 2](https://github.com/user-attachments/assets/16adeab3-10d2-4bfc-ac06-6558fe119df6)
+![Pwc Singapore - Task 2](https://github.com/user-attachments/assets/d63763bb-29ab-48c4-9469-2037211d6b71)
+![Pwc Singapore - Task 3](https://github.com/user-attachments/assets/0a1641a7-b42e-4b5d-aa89-2381d318fcb9)
+![Pwc Singapore - Task 4 ( Diversity Inclusion)](https://github.com/user-attachments/assets/3bcc17d7-70fa-46a0-bd68-973715d9ca30)
 
+This project contains three Power BI dashboards designed to provide insights into different areas of business performance: Call Centre Analytics, Customer Churn, and Diversity & Inclusion.
 
-Insights from the uploaded dashboards:
 1. Call Centre Analytics Dashboard:
-Overview: This dashboard provides a snapshot of call center performance, focusing on agent activity, resolution rates, customer satisfaction, and call handling speed.
+This dashboard provides an overview of call center performance, focusing on metrics such as resolution rates, customer satisfaction, and agent efficiency.
 
-Average Satisfaction Rating (3.40): Below the midpoint (4.50), indicating that customer satisfaction could be improved. Focus areas could include agent training or improved response times.
+Average Satisfaction Rating: 3.40/6.81 (below target; improvement needed).
+Resolution Rate: 72.92% of calls are resolved, but 27% remain unresolved.
+Average Speed of Answer: 67.52 seconds across all agents.
+Agent Performance: Jim answers the most calls but has the lowest satisfaction score (3.39); Martha and Joe have better satisfaction and speed of answer metrics.
+Key Focus: Improve call resolution times and enhance customer satisfaction by refining agent training and workflows.
 
-Resolution Rate (72.92%): A large portion of calls are being resolved (3.65K out of 5K+). This is positive, but the dashboard highlights that nearly 27% of calls are unresolved, which could be a pain point.
+2. Customer Churn Dashboard:
+This dashboard highlights customer churn risks and provides demographic, payment, and subscription data to identify trends.
 
-Speed of Answer (67.52 sec): While the average speed of answering calls is under a minute, further improvements could enhance customer satisfaction, especially for calls that are not getting resolved promptly.
+1,869 customers at risk of churn.
+Payment Methods: 57.30% use electronic checks; higher churn risk with mailed checks and credit cards.
+Contract Types: 88.55% of customers are on month-to-month contracts, which increases churn risk.
+Services Subscribed: Bundling services could reduce churn as 50% of customers have multiple lines.
+Key Focus: Implement customer retention strategies through long-term contracts and targeted offers based on payment method and service usage.
 
-Agent-wise Performance:
-
-Martha and Joe perform best in terms of average speed and satisfaction ratings, while Jim answers the most calls but has the lowest satisfaction score (3.39).
-Stewart and Diane have slightly better satisfaction ratings (3.40–3.41), but their speed of answer could be optimized.
-2. Churn Dashboard:
-Overview: This dashboard focuses on customer churn risk, with an emphasis on demographics, payment methods, contract types, and the services customers are signed up for.
-
-Customers at Risk (1,869): The number of customers flagged as being at risk is high, representing a significant percentage of the customer base. This may require immediate action through tailored retention strategies.
-
-Payment Method Insights: A majority of customers (57.30%) use electronic checks, with smaller portions opting for mailed checks or bank transfers. There could be a correlation between certain payment methods and churn risk—customers using mailed checks or credit cards could be examined further.
-
-Contract Types: Most customers (88.55%) have month-to-month contracts, which are generally associated with higher churn risks. Long-term contracts (e.g., two-year plans) seem uncommon (2.57%), suggesting a need for initiatives that incentivize long-term commitments.
-
-Services Subscribed:
-
-Almost half (50%) of the customers have multiple lines, and a significant percentage have additional services like phone service (91%), streaming TV (44%), and tech support (17%).
-Offering bundled packages could improve retention by increasing perceived value.
 3. Diversity & Inclusion Dashboard:
-Overview: This dashboard analyzes the hiring, promotions, and turnover trends across genders and job levels to highlight diversity and inclusion performance.
+This dashboard assesses hiring, promotion, and turnover trends by gender and job level, offering insights into diversity performance.
 
-Hiring Trends:
-59% of hires are male, while 41% are female, indicating a slight gender imbalance in hiring practices.
-The imbalance is most notable at the executive and senior management levels, where male hires significantly outpace female hires (88% to 13% in the executive tier).
-Promotion Trends:
-Promotions also skew male, particularly at higher levels (senior manager and above), although there's more gender parity at lower levels like junior officers.
-The average time to promotion shows that it takes female employees longer to get promoted at higher levels compared to males, indicating potential gender bias in the promotion process.
-Turnover Rate:
-Turnover is relatively high for both genders, particularly at the executive and director levels, with females experiencing slightly higher turnover rates.
-FY20 turnover rates show an uptick, particularly for female executives and directors, suggesting a retention issue among women at senior levels.
-Recommendations:
-Call Centre:
-Focus on reducing call resolution times and increasing satisfaction rates by enhancing agent training and optimizing workflows for unresolved calls.
-Specific attention should be paid to agents like Jim, who handles the most calls but lags behind in satisfaction.
-Customer Churn:
-Prioritize long-term contract promotions and reward programs to reduce churn among month-to-month customers.
-Further investigate the link between churn and payment methods or services to identify at-risk customer segments for targeted retention strategies.
-Diversity & Inclusion:
-Develop programs that target improving gender balance at the senior management and executive levels.
-Address promotion gaps by implementing fairer and more transparent promotion policies to help reduce the time to promotion for women.
-Improve retention strategies to prevent the high turnover rates seen among women at senior levels.
+Hiring: 59% of new hires are male, with significant gender gaps at the executive level.
+Promotions: Males are promoted more frequently, with women facing longer wait times, particularly at senior levels.
+Turnover: Higher turnover among female executives and directors, indicating retention challenges.
+Key Focus: Improve gender parity in hiring and promotions, and address turnover among senior female employees through inclusive retention programs.
